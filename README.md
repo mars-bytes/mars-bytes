@@ -9,7 +9,7 @@
     ✨ Coding connoisseur, mesmerizing users ✨
   </p>
   <p class="info-footer" align="center">
-    🥃👨‍💻🎯
+    👨‍💻 🎯 💻 😎
   </p>
 </div>
 
